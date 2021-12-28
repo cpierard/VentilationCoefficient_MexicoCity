@@ -1,0 +1,5 @@
+Ventilation Coeficient over Mexico City in the year 2015
+
+Que tengo hecho:
+- Gráficas tipo espacio fase sólo para la estación CCA.
+- 
